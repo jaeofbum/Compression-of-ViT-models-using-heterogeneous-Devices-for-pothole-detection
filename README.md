@@ -9,7 +9,6 @@ Knowledge Distillation을 이용해 ViT기반인 DeiT모델을 압축하여 포�
 ![image](https://user-images.githubusercontent.com/105076787/211204630-1659468a-5ab3-4782-bc60-47a4bac47acb.png)
 ![image](https://user-images.githubusercontent.com/105076787/211204633-cc01ab18-a4a6-4ab1-830f-7e9c7d3cbce3.png)
 ![image](https://user-images.githubusercontent.com/105076787/211204645-f35f0b2a-0020-47fc-bb8f-1a12ff5428d4.png)
-![image](https://user-images.githubusercontent.com/105076787/211204650-fe47dbb8-8c10-465d-a001-8db0f13cd415.png)
 ![image](https://user-images.githubusercontent.com/105076787/211204667-c6416e93-70be-4f63-8f05-bc35cbea9dbb.png)
 ![image](https://user-images.githubusercontent.com/105076787/211204675-1f125e7a-76c5-4796-a7b7-3272dca355a4.png)
 ![image](https://user-images.githubusercontent.com/105076787/211204704-0fb5ce23-8ea1-430b-b8ce-d24412a1f207.png)
