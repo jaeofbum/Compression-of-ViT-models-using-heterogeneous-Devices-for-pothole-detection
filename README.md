@@ -1,4 +1,4 @@
-Knowledge Distillation을 이용해 ViT기반인 DeiT모델을 압축하여 포트홀 탐지에 이용
+Using knowledge distillation techniques, the ViT-based DeiT model is compressed and used to detect potholes.
 ![image](https://user-images.githubusercontent.com/105076787/211204558-6497f2d2-4e96-4e3d-b996-17074d3d4356.png)
 ![image](https://user-images.githubusercontent.com/105076787/211204563-731f5c40-f297-42d3-966a-ba085754d6e0.png)
 ![image](https://user-images.githubusercontent.com/105076787/211204574-82981010-b0e0-46bd-9b06-b4fbe77dc0b9.png)
